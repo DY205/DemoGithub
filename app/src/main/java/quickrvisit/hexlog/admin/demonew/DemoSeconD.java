@@ -24,7 +24,6 @@ public class DemoSeconD extends AppCompatActivity {
             System.out.println("");
         }
 
-
         for(i=1;i<=n;i++)
         {
             for(j=i;j<n;j++)
